@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="TO-DO" />
-    <title>TO-DO</title>
+    <title>Ejercicio 2</title>
     <script src="../js/color-modes.js"></script>
     <link href="../css/bootstrap.min.css" rel="stylesheet" />
     <meta name="theme-color" content="#712cf9" />
@@ -155,23 +155,26 @@
 			<article id="ejer2_1">
 				<h3>Ejercicio 2.1</h3>
 				<?php 
-						//TO-DO
-						?>
-			</article>
-			<article id="ejer2_2">
-				<h3>Ejercicio 2.2</h3>
-				<?php 
-						//TO-DO
-						?>
-			</article>
-			<article id="ejer2_3">
-				<h3>Ejercicio 2.3</h3>
-				<?php 
-						//TO-DO
-						?>
-			</article>
-			<article id="ejer2_4">
-				<h3>Ejercicio 2.4</h3>
+            require_once "../recursos/bombilla.php";
+            $bombilla = new Bombilla();
+            $bombilla-> encender();
+            $bombilla-> apagar();
+				?>
+        </article>
+        <article id="ejer2_2">
+          <h3>Ejercicio 2.2</h3>
+          <?php 
+              //TO-DO
+              ?>
+        </article>
+        <article id="ejer2_3">
+          <h3>Ejercicio 2.3</h3>
+        <?php 
+            //TO-DO
+          ?>
+        </article>
+        <article id="ejer2_4">
+          <h3>Ejercicio 2.4</h3>
 				<?php 
 						//TO-DO
 						?>
