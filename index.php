@@ -149,12 +149,12 @@
     <!-- Begin page content -->
     <main class="flex-shrink-0">
       <div class="container">
-        <h1 class="mt-5">TO-DO</h1>
+        <h1 class="mt-5">Repositorio David Kliba</h1>
         <p class="lead">
-          Ongi etorri TO-DOra!
+          El contenido de esta página está en construcción.
         </p>
         <p>
-          TO-DO.
+          Por favor, vuelve más tarde para ver las actualizaciones.
         </p>
       </div>
     </main>
